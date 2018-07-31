@@ -30,7 +30,6 @@ public class LoginWithValidCred {
 
 	@Then("^user is successfully logged in$")
 	public void user_is_successfully_logged_in() {
-		System.out.println(driver.getTitle());
 		Assert.assertEquals("Find a Flight: Mercury Tours:", driver.getTitle());
 	}
 }
