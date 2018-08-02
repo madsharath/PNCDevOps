@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.example.PNCDevOps.RunCukesTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 60.197 sec - in org.example.PNCDevOps.RunCukesTest
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.541 sec - in org.example.PNCDevOps.RunCukesTest
