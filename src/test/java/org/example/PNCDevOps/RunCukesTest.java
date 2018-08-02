@@ -6,6 +6,6 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 //@CucumberOptions(plugin = {"pretty"})
-@CucumberOptions(features="C:\\JogaDevOps\\PNCDevOps\\Resources\\LoginTest.feature")
+@CucumberOptions(plugin={"json"})
 public class RunCukesTest {
 }
